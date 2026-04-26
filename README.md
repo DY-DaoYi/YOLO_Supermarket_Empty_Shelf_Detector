@@ -1,9 +1,9 @@
 # 🛒 基于 YOLO 的超市空货架检测系统 (Supermarket Empty Shelf Detection System)
 
-![Python](https://img.shields.io/badge/Python-3.11.15-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.55.0-red)
-![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-8.4.21-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+Python
+Streamlit
+YOLO
+License
 
 本项目是一个功能完整的**超市空货架检测系统**。基于最新的 Ultralytics YOLO 系列模型构建，能够检测超市货架图像中的空货架等目标。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
 
@@ -169,9 +169,9 @@ YOLO_Supermarket_Empty_Shelf_Detector/
 ### 😷 类别信息
 
 
-| 英文名          | 中文名 |
-| ------------ | --- |
-| 100- O-O-S | 空货架  |
+| 英文名        | 中文名 |
+| ---------- | --- |
+| 100- O-O-S | 空货架 |
 
 
 ### 📷 图片数量
@@ -210,13 +210,14 @@ YOLO_Supermarket_Empty_Shelf_Detector/
 > 1. **核心训练代码**：包含 **train.py (单模型)** 和 **train_batch.py (批量实验)**，支持断点续训和自动批量大小（autobatch），训练完成后自动生成 GPU 耗时，成本估算和 mAP 评估报告。
 > 2. **全系列模型权重与训练日志**：包含 **YOLOv8 / YOLO11 / YOLO26** 三个系列的 `best.pt` 模型文件，以及完整的训练日志、Loss 曲线图、mAP 指标图和混淆矩阵等评估图表。
 > 3. **（赠品）数据集**：整理好的 Ultralytics 开源数据集压缩包。
+>   - *说明：数据集本身是免费开源的。但由于国内网络环境下载困难，我在资源包中免费提供了已整理好的数据集压缩包，方便大家直接使用。*
 >
 > **📥 立即获取资源包：**
 >
 > - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**自动发货**）
 > - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)
 
-> ---
+---
 
 ## 👨‍💻 更多项目 & 联系作者 (More Projects & Contact)
 

@@ -25,8 +25,8 @@
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)
 
 ---
 
@@ -213,8 +213,8 @@ YOLO_Supermarket_Empty_Shelf_Detector/
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)
 
 > ---
 

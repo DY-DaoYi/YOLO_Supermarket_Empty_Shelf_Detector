@@ -1,11 +1,11 @@
 # 🛒 基于 YOLO 的超市空货架检测系统 (Supermarket Empty Shelf Detection System)
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-YOLO-111827?logo=ultralytics&logoColor=white)](https://github.com/ultralytics/ultralytics)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.11.15-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.55.0-red)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-8.4.21-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-本项目是一个功能完整的超市空货架检测系统。基于最新的 Ultralytics YOLO 系列模型构建，能够检测超市货架图像中的空货架等目标。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
+本项目是一个功能完整的**超市空货架检测系统**。基于最新的 Ultralytics YOLO 系列模型构建，能够检测超市货架图像中的空货架等目标。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
 
 > **⚠️ 关于本项目 (About This Project)**
 >
@@ -25,8 +25,8 @@
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**0.7折优惠，自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)（**0.8折优惠**）
 
 ---
 
@@ -50,7 +50,7 @@
 >
 > | 哔哩哔哩 (Bilibili)                                          | 抖音 (Douyin)                             | 小红书 (Xiaohongshu)                                                                                                                                                                                 | 快手 (Kuaishou)                                           |
 > | -------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-> | [Bilibili](https://www.bilibili.com/video/BV1ZRoVBGEnK/) | [抖音](https://v.douyin.com/0gpjibNhRpA/) | [Xiaohongshu](https://www.xiaohongshu.com/discovery/item/69eacc07000000001e00d9ba?source=webshare&xhsshare=pc_web&xsec_token=YB69rQl2PnXWOy-ZYe3rEvEQxmShB7D7SscSUhV59p0E0=&xsec_source=pc_share) | [Kuaishou](https://www.kuaishou.com/f/X-7Y8CazyxmR91IT) |
+> | [Bilibili](https://www.bilibili.com/video/BV1KkZcBdEuE/) | [抖音](https://v.douyin.com/h7RH_ZyYFHU/) | [Xiaohongshu](https://www.xiaohongshu.com/discovery/item/69edcc5a00000000380367db?source=webshare&xhsshare=pc_web&xsec_token=YBV5uAsD2pht6wxYQk1hMEZA6v5aIC0-Qip9sNuehxzxY=&xsec_source=pc_share) | [Kuaishou](https://www.kuaishou.com/f/X-3tXtUnS603g1Hu) |
 >
 
 ---
@@ -213,8 +213,8 @@ YOLO_Supermarket_Empty_Shelf_Detector/
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmZlvaw==)（**0.7折优惠，自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iGHFacx?tk=ULzd5QKniSB)（**0.8折优惠**）
 
 > ---
 

@@ -1,9 +1,9 @@
 # 🛒 基于 YOLO 的超市空货架检测系统 (Supermarket Empty Shelf Detection System)
 
-Python
-Streamlit
-YOLO
-License
+![Python](https://img.shields.io/badge/Python-3.11.15-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.55.0-red)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-8.4.21-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 本项目是一个功能完整的**超市空货架检测系统**。基于最新的 Ultralytics YOLO 系列模型构建，能够检测超市货架图像中的空货架等目标。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
 
@@ -253,4 +253,3 @@ YOLO_Supermarket_Empty_Shelf_Detector/
     - [📺 Bilibili 主页](https://space.bilibili.com/476449751)
     - [🎵 抖音主页](https://v.douyin.com/_lCSbZ57T6o/)
     - [📕 小红书主页](https://xhslink.com/m/9d9qHFQbg0w)
-
